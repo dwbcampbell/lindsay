@@ -1,0 +1,17 @@
+---
+abstract: Diversity is big business and the body of published work is enormous.
+author: New Discourses
+date: '2020-06-25'
+link: https://newdiscourses.com/2020/06/defence-approach-diversity/
+media_url: ''
+title: The Defence Approach to Diversity
+---
+<https://newdiscourses.com/2020/06/defence-approach-diversity/>
+
+- Andrew Fox critiques Surgeon Lieutenant Commander Mike Hill's article on diversity in Defence, arguing against the prioritization of diversity based on protected characteristics.
+- Fox challenges Hill's assertion that diversity unequivocally benefits Defence, citing studies that question the positive impact of diversity on performance.
+- The article emphasizes the distinction between diversity of thought and diversity based on protected characteristics, arguing the former is more beneficial.
+- Fox points out the lack of military-specific research on diversity and highlights studies where diversity had negative impacts under certain conditions.
+- The article critiques the Equalities Act 2010 for promoting superficial diversity, which may create divisions rather than unity.
+- Fox advocates for neuro-diversity and diverse perspectives over demographic diversity, suggesting this approach can offer fresh solutions to complex problems.
+- The conclusion calls for a reevaluation of Defence's diversity strategy to focus on fostering diverse thinking rather than meeting diversity targets based on protected characteristics.

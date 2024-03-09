@@ -1,0 +1,21 @@
+---
+abstract: My purposes here are to highlight this concept of “deepfake methodology”
+  and contextualize in terms of what I have been learning about these lazy critical
+  methods.
+author: James Lindsay
+date: '2020-05-17'
+link: https://newdiscourses.com/2020/05/deepfake-methodology-limits-critical-theories/
+media_url: ''
+title: Deepfake Methodology and the Limits of Critical Theories
+---
+<https://newdiscourses.com/2020/05/deepfake-methodology-limits-critical-theories/>
+
+- Ole Wæver and Barry Buzan, two critical security theorists, published a rebuttal in _Security Dialogue_ against accusations of foundational racism in their work, as claimed by Alison Howell and Melanie Richter-Montpetit in an earlier article.
+- Howell and Richter-Montpetit's article accused Wæver and Buzan's approach to security theory of being Eurocentric, civilizationist, methodologically white, and antiblack racist.
+- Wæver and Buzan faced significant hurdles in getting their response published, indicating the contentious nature of the debate within academic circles.
+- In their response, Wæver and Buzan critique the methodology of Howell and Richter-Montpetit, labeling it as "deepfake methodology" for its flawed approach in analyzing and interpreting their work.
+- They argue that such methodology allows for any text to be reassembled to support preconceived conclusions, undermining academic integrity.
+- Wæver and Buzan call for the retraction of Howell and Richter-Montpetit's article due to its methodological failures and potential for libel.
+- The debate highlights the tension within academia between traditional scholarly norms and the influence of Critical Social Justice approaches, particularly around issues of racism and methodology.
+- Wæver and Buzan question whether the fight against racism justifies violating scholarly norms and potentially harming the integrity of colleagues not deemed racist.
+- The situation underscores the broader challenges facing academia in balancing critical inquiry with the pursuit of social justice objectives.

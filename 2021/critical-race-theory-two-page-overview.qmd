@@ -1,0 +1,26 @@
+---
+abstract: Critical Race Theory proceeds upon a number of dubious assumptions and by
+  means of a variety of questionable methods.
+author: James Lindsay
+date: '2021-04-29'
+link: https://newdiscourses.com/2021/04/critical-race-theory-two-page-overview/
+media_url: ''
+title: 'Critical Race Theory: A Two-page Overview'
+---
+<https://newdiscourses.com/2021/04/critical-race-theory-two-page-overview/>
+
+- Critical Race Theory (CRT) challenges traditional civil rights approaches, questioning foundational liberal principles like equality theory and constitutional law.
+- CRT is skeptical of the liberal focus on individual rights.
+- CRT views race as a social construct and racism as systemic, affecting all societal levels and favoring whites.
+- Key assumptions and methods of CRT include:
+  - Racism as ordinary and pervasive in society.
+  - Interest convergence theory, suggesting whites only support racial justice when it aligns with their interests.
+  - Motivated ignorance, with dominant racial groups ignoring systemic racism to maintain privilege.
+  - Structural determinism, positing that societal systems, not individual merit, determine life outcomes.
+  - Emphasis on authentic racial experiences and the unique voice of color, asserting that lived experiences of oppression cannot be questioned.
+  - Engagement in identity politics, forming political coalitions based on racial identity.
+  - Prioritization of impact over intent in evaluating racism.
+  - Anti-liberal stance, critiquing liberalism as upholding racial inequities.
+  - Use of narrative and counterstorytelling to challenge established knowledge and facts.
+  - Advocacy for revisionist history to reflect CRT perspectives.
+  - Intersectionality, linking all forms of identity-based oppression.

@@ -1,0 +1,19 @@
+---
+abstract: In this essay, we address the consequences of the University of California’s
+  policies to address racial disparities and its support for social justice activism
+  as influences on its commitment to academic freedom and other intellectual values.
+author: New Discourses
+date: '2021-03-08'
+link: https://newdiscourses.com/2021/03/university-california-drifts-toward-conformism-representation-academic-freedom/
+media_url: ''
+title: The University of California Drifts toward Conformism
+---
+<https://newdiscourses.com/2021/03/university-california-drifts-toward-conformism-representation-academic-freedom/>
+
+- The University of California (UC) has implemented policies to address racial disparities and support social justice activism, impacting its commitment to academic freedom and intellectual values.
+- DEI (Diversity, Equity, and Inclusion) policies at UC have been both beneficial for access and equality but also pose threats to academic freedom and intellectual mission.
+- Mandatory DEI statements in faculty hiring at UC prioritize representation over academic qualifications, potentially discriminating against candidates not aligning with specific political beliefs or demographic profiles.
+- UC's efforts to diversify began in the late 1960s, with significant policy changes following the passage of Proposition 209 in the mid-1990s, which banned affirmative action in hiring or admissions.
+- The introduction of intolerance report forms, equity advisors, and the elimination of the SAT for admissions are among the steps taken to expand diversity and protect under-represented groups.
+- The anti-racism movement and DEI initiatives have led to a shift in the university's focus from intellectual mission to representational goals, with potential long-term impacts on academic freedom and the culture of rationalism.
+- The essay argues for a balanced approach that supports diversity and social justice while preserving academic freedom and the university's intellectual mission, suggesting the abandonment of policies like mandatory diversity statements that interfere with these principles.

@@ -1,0 +1,19 @@
+---
+abstract: Among the books making the rounds on recent “must-read” book lists is White
+  Fragility, by Robin DiAngelo.
+author: New Discourses
+date: '2020-06-17'
+link: https://newdiscourses.com/2020/06/5-reasons-book-white-fragility-shallow-destructive/
+media_url: ''
+title: 5 Reasons the Book "White Fragility" is Shallow and Destructive
+---
+<https://newdiscourses.com/2020/06/5-reasons-book-white-fragility-shallow-destructive/>
+
+- The article critiques Robin DiAngelo's book _White Fragility_, which aims to teach white people to recognize their inherent racism and the ways they resist acknowledging it.
+- The author, Anne Bailey, argues that DiAngelo's framework for understanding racism and white supremacy is illogical, toxic, and destructive, offering five main reasons for this assessment:
+  1. **Defies Falsifiability**: DiAngelo's argument that denying racism is proof of racism and white fragility violates the principle of falsifiability, making it pseudo-scientific.
+  2. **Fails to Address Individuals**: DiAngelo's broad definitions accuse nearly everyone of racism without individual scrutiny, collecting more followers without room for dissent.
+  3. **Emotionally Manipulative**: The book manipulates readers into admitting they are racist to avoid being labeled as fragile, trapping them in a conundrum without evidence.
+  4. **Money-Making Scheme**: DiAngelo profits from the dilemma she creates, charging $10,000 for seminars that promise to help readers become antiracist.
+  5. **Undermines Healthy Relationships**: The accusations of universal racism strain interracial and intraracial relationships, introducing unnecessary tension and stress.
+- Bailey concludes that DiAngelo's approach to racism education is emotionally and financially manipulative and should be condemned by those genuinely seeking to end racism and foster unity.

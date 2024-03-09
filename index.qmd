@@ -1,0 +1,17 @@
+# Preface {.unnumbered}
+
+This document presents summaries of articles on James Lindsay's New Discourses website from 2019 through to the end of 2023.
+
+The summaries were produced by GPT-4 based on the original articles. 
+
+The system prompt used was:
+
+> You are a fair and neutral commentator.
+
+And the article prompt used was:
+
+> Give a terse summary of the following article in point form:
+
+There is some inconsistency in the formatting of the summaries because each article was summarized in a separate call to GPT-4. Consistency might be improved by elaborating the article prompt.
+
+The document was formatting using the Quarto system. See <https://quarto.org/docs/books>.

@@ -1,0 +1,19 @@
+---
+abstract: James Lindsay joins the 'That's BS' podcast to discuss the purpose and reaction
+  to his Grievance Studies papers, his book with Peter Boghossian on how to disagree
+  better, and Twitter trolls.
+author: New Discourses
+date: '2020-04-08'
+link: https://newdiscourses.com/2020/04/conversations-internet-trolling/
+media_url: ''
+title: Having Conversations in the Age of Internet Trolling
+---
+<https://newdiscourses.com/2020/04/conversations-internet-trolling/>
+
+- James Lindsay was a guest on the "That’s BS" podcast.
+- Discussed topics include:
+  - The purpose and public reaction to his Grievance Studies papers.
+  - His book co-authored with Peter Boghossian on improving disagreement.
+  - Experiences with Twitter trolls.
+- Lindsay shared insights into the writing process of the papers and the anticipation leading up to their public reveal.
+- The conversation also covered strategies for reforming significant offenders in the context discussed.

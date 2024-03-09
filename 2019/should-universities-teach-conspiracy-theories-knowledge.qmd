@@ -1,0 +1,19 @@
+---
+abstract: Should there be university departments and courses, and should there be
+  researchers and academic journals, devoted to conspiracy theories?
+author: James Lindsay
+date: '2019-12-26'
+link: https://newdiscourses.com/2019/12/should-universities-teach-conspiracy-theories-knowledge/
+media_url: ''
+title: Should Universities Teach Conspiracy Theories as Knowledge?
+---
+<https://newdiscourses.com/2019/12/should-universities-teach-conspiracy-theories-knowledge/>
+
+- The article questions whether universities should devote resources to developing conspiracy theories as serious academic pursuits, rather than just studying them.
+- It challenges the assumption of what constitutes valid academic inquiry and the status conferred by academic recognition.
+- The hypothetical "Truth Studies" department is used to illustrate the absurdity of treating conspiracy theories as legitimate academic subjects.
+- The article argues that academic freedom doesn't justify granting conspiracy theories the prestige and resources of university endorsement.
+- It suggests that conspiracy theories do not meet the criteria of knowledge production as outlined by Jonathan Rauch: no special authority and no final say.
+- The article compares the proposed "Truth Studies" to existing "Grievance Studies," criticizing both for failing to adhere to liberal science principles.
+- It argues against government intervention in academic matters and advocates for reform within the academy to uphold rigorous standards.
+- The article concludes that universities must adhere to principles of liberal science to maintain their role as bastions of knowledge production.

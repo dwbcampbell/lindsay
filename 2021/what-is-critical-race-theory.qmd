@@ -1,0 +1,18 @@
+---
+abstract: I’ve been asked a million times for a short introduction to Critical Race
+  Theory that hits the high points in a quick, straightforward way.
+author: James Lindsay
+date: '2021-01-10'
+link: https://newdiscourses.com/2021/01/what-is-critical-race-theory/
+media_url: ''
+title: What Is Critical Race Theory?
+---
+<https://newdiscourses.com/2021/01/what-is-critical-race-theory/>
+
+- Critical Race Theory (CRT) originated at Harvard Law School between the late 1970s and early 1990s, questioning the effectiveness of the Civil Rights Movement and legislation in improving racial situations in Western countries, particularly the USA.
+- CRT aims to address "historical injustices" related to race by reorganizing social, cultural, and legal frameworks.
+- According to Richard Delgado and Jean Stefancic, CRT views race as a political construct created by white people to maintain power and sees racism as a permanent, ordinary state of affairs in society, embedded in all interactions and institutions.
+- CRT proponents believe that racism benefits white elites materially and working-class whites psychically, making society reluctant to eradicate it. They focus on identifying "systemic racism" in all aspects of life, guided by the subjective "lived experience" of racism.
+- CRT rejects the principles of liberalism, equality, and Enlightenment rationalism, which underpin Western societies and the Civil Rights Movement, viewing them as mechanisms that maintain discrimination.
+- The theory criticizes the liberal order, including legal reasoning and constitutional law, arguing that these principles obscure structural inequalities and maintain the status quo.
+- CRT is seen as radical, challenging the fundamental principles of liberal societies and offering a perspective that many believe inverts reality regarding race and racism.

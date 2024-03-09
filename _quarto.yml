@@ -1,0 +1,106 @@
+project:
+  type: book
+book:
+  title: Summaries of Lindsay's Articles
+  author: Junius
+  date: '2024-03-09'
+  chapters:
+  - index.qmd
+  - part: '2019'
+    chapters:
+    - 2019/academics-cowards-grievance-studies-academic-pursuit.qmd
+    - 2019/guru-appeal-jordan-peterson-post-everything-world.qmd
+    - 2019/progressive-privilege-john-rawls-moral-relativism.qmd
+    - 2019/should-universities-teach-conspiracy-theories-knowledge.qmd
+  - part: '2020'
+    chapters:
+    - 2020/2-plus-2-never-equals-5.qmd
+    - 2020/5-reasons-book-white-fragility-shallow-destructive.qmd
+    - 2020/activist-violence-context.qmd
+    - 2020/blm-based-on-conspiracy-theory.qmd
+    - 2020/can-white-people-understand-racism.qmd
+    - 2020/complex-relationship-between-marxism-wokeness.qmd
+    - 2020/conversations-internet-trolling.qmd
+    - 2020/critical-race-theorys-jewish-problem.qmd
+    - 2020/critical-theories-virus-liberal-body-politic.qmd
+    - 2020/deepfake-methodology-limits-critical-theories.qmd
+    - 2020/defence-approach-diversity.qmd
+    - 2020/die-woke-belastungsgrenze.qmd
+    - 2020/diversity-delusion.qmd
+    - 2020/do-better-than-critical-race-theory.qmd
+    - 2020/everything-problematic.qmd
+    - 2020/first-amendment-case-freedom-from-woke-religion.qmd
+    - 2020/grievance-studies-affair-academias-social-justice-warriors.qmd
+    - 2020/helen-pluckrose-evolution-postmodern-thought.qmd
+    - 2020/how-wokeness-undermines-constitution.qmd
+    - 2020/how-your-organization-can-resist-woke-social-pressure.qmd
+    - 2020/hurtling-toward-totalitarianism-call-action-defense-all-we-hold-dear.qmd
+    - 2020/iconoclasm-prelude-woke-horrors.qmd
+    - 2020/james-explains-health-equity-babies-bathwater.qmd
+    - 2020/james-explains-what-about-sociology.qmd
+    - 2020/language-matters-translations-wokish.qmd
+    - 2020/liberalism-anti-liberal-moral-order.qmd
+    - 2020/maintaining-expanding-ban-critical-race-theory.qmd
+    - 2020/most-dangerous-place-to-be.qmd
+    - 2020/naming-enemy-critical-social-justice.qmd
+    - 2020/nobody-systemically-racist.qmd
+    - 2020/open-letter-robin-diangelo-anti-racism.qmd
+    - 2020/philip-guston-not-now-impact-argument.qmd
+    - 2020/poverty-lived-experiences.qmd
+    - 2020/principled-statement-opposition-critical-race-theory-excerpt-cynical-theories.qmd
+    - 2020/problem-white-fragility.qmd
+    - 2020/problema-fragilidad-blanca.qmd
+    - 2020/psychopathy-origins-totalitarianism.qmd
+    - 2020/racial-healing-reject-critical-race-theory.qmd
+    - 2020/reasons-critical-race-theory-terrible-dealing-racism.qmd
+    - 2020/reflections-national-archives-american-tales.qmd
+    - 2020/road-hell-paved-with-eggshells.qmd
+    - 2020/roots-woke-culture.qmd
+    - 2020/schools-teaching-kids-social-justice.qmd
+    - 2020/sharing-size-nine-reasons-critical-race-theory-terrible-dealing-racism.qmd
+    - 2020/template-resisting-white-fragility-workplace.qmd
+    - 2020/theres-no-such-thing-as-systematic-racism.qmd
+    - 2020/welcome-new-discourses.qmd
+    - 2020/white-silence-not-violence.qmd
+    - 2020/why-world-cultural-relativism-descendents.qmd
+    - 2020/why-your-organization-should-not-do-diversity-training.qmd
+    - 2020/woke-breaking-point.qmd
+    - 2020/woke-creation-myth.qmd
+    - 2020/woke-wont-debate-you-heres-why.qmd
+    - 2020/wokeness-not-racist-doctrines-disempowerment.qmd
+    - 2020/wokeness-threatens-rule-of-law.qmd
+  - part: '2021'
+    chapters:
+    - 2021/calamity-scientific-gnosticism.qmd
+    - 2021/critical-race-theory-two-page-overview.qmd
+    - 2021/five-ugly-truths-about-critical-race-theory.qmd
+    - 2021/letter-supporting-bill-ban-critical-race-theory.qmd
+    - 2021/manifesto-for-the-based.qmd
+    - 2021/on-the-absence-of-systemic-racism.qmd
+    - 2021/rise-woke-cultural-revolution.qmd
+    - 2021/university-california-drifts-toward-conformism-representation-academic-freedom.qmd
+    - 2021/values-post-woke-world.qmd
+    - 2021/what-is-critical-race-theory.qmd
+    - 2021/woke-make-bidens-moderation-irrelevant.qmd
+  - part: '2022'
+    chapters:
+    - 2022/crt-queer-theory-and-marxism-by-any-other-name.qmd
+    - 2022/how-to-kill-a-science-the-process-of-dialectical-inversion.qmd
+    - 2022/many-faces-of-marxism.qmd
+    - 2022/rejoice-in-the-day-the-lord-has-made.qmd
+    - 2022/riddle-of-history-solved.qmd
+    - 2022/theft-american-education.qmd
+    - 2022/three-terms-communists-redefined-to-subvert-society.qmd
+  - part: '2023'
+    chapters:
+    - 2023/basis-of-classical-liberalism.qmd
+    - 2023/intersectionality-is-american-maoism.qmd
+    - 2023/queer-education-is-child-abuse.qmd
+    - 2023/rousing-the-american-judiciary.qmd
+    - 2023/wokeness-and-the-structure-of-cults.qmd
+    - 2023/workings-of-the-woke-cult.qmd
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt

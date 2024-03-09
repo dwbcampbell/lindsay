@@ -1,0 +1,18 @@
+---
+abstract: In 1971, liberal political philosopher John Rawls proposed in his influential
+  book 'A Theory of Justice' what is perhaps the most famous and compelling progressive
+  thought experiment ever considered.
+author: James Lindsay
+date: '2019-12-24'
+link: https://newdiscourses.com/2019/12/progressive-privilege-john-rawls-moral-relativism/
+media_url: ''
+title: 'Check your Progressive Privilege: John Rawls vs Moral Relativism'
+---
+<https://newdiscourses.com/2019/12/progressive-privilege-john-rawls-moral-relativism/>
+
+- John Rawls' "original position" thought experiment, introduced in his book "A Theory of Justice" (1971), proposes designing a world from a position of equality without knowing one's future status in that world, encouraging fairness and justice.
+- The experiment underscores the importance of minimizing arbitrary social inequalities, such as those based on race, gender, or other forms of bigotry, which are central to progressive thought.
+- Some progressives, while embracing Rawls' ideas, paradoxically defend illiberal societies with oppressive practices, citing cultural relativism to avoid imposing Western values, despite these practices being at odds with progressive principles.
+- This inconsistency highlights a contradiction within progressive ideology, which aims to protect the oppressed but sometimes ends up supporting oppressive cultures under the guise of avoiding cultural imperialism.
+- The article argues that Rawls' thought experiment, if slightly modified to consider cultural and moral systems, reveals the flaws in cultural relativism by showing that no one would choose to live in oppressive societies if given the choice beforehand.
+- It concludes that some moral systems are objectively better than others, challenging the doctrine of cultural relativism and advocating for a more universal approach to human rights and justice.

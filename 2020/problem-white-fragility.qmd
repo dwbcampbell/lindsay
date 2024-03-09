@@ -1,0 +1,18 @@
+---
+abstract: In 2018, the “whiteness educator” Robin DiAngelo published a bestselling
+  book called White Fragility. This book is intended to teach white people about their
+  own racism.
+author: James Lindsay
+date: '2020-06-06'
+link: https://newdiscourses.com/2020/06/problem-white-fragility/
+media_url: ''
+title: The Problem with White Fragility
+---
+<https://newdiscourses.com/2020/06/problem-white-fragility/>
+
+- Robin DiAngelo's book _White Fragility_ aims to educate white people about their inherent racism and how they resist acknowledging and addressing it due to "white fragility."
+- DiAngelo redefines "racism" and "white supremacy" to refer to systemic issues rather than individual behaviors or beliefs, distancing these terms from traditional associations with overt hate groups.
+- The book promotes the idea that all white people are inherently racist due to systemic advantages and must actively engage in DiAngelo's version of antiracism to combat this.
+- DiAngelo's concept of "white fragility" makes it impossible for white people to deny any accusations of racism without proving their "fragility," pushing them towards her costly antiracism seminars.
+- The approach is criticized as manipulative, lacking in scholarly evidence, and more focused on selling seminars than addressing racism effectively.
+- DiAngelo's development of "white fragility" is based on her personal experiences and observations rather than rigorous academic research, raising questions about the validity and applicability of her theories.

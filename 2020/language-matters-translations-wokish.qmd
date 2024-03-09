@@ -1,0 +1,18 @@
+---
+abstract: The point of language, to the best of my understanding, is to create shared
+  intentions between the communicators involved.
+author: James Lindsay
+date: '2020-03-02'
+link: https://newdiscourses.com/2020/03/language-matters-translations-wokish/
+media_url: ''
+title: 'Language Matters: Why I’m Creating Translations from the Wokish'
+---
+<https://newdiscourses.com/2020/03/language-matters-translations-wokish/>
+
+- The essay discusses the importance of clear communication and the frequent misunderstandings that occur in everyday interactions.
+- It emphasizes the significance of language in creating shared intentions and understanding between people.
+- The essay introduces the concept of Critical Social Justice (CSJ) and its specialized use of language, which often diverges from common interpretations of certain terms.
+- It highlights the need for a resource to clarify CSJ terminology, leading to the creation of _Translations from the Wokish: A Plain-Language Encyclopedia of Social Justice Terminology_.
+- The resource aims to explain the specific meanings of terms within the CSJ paradigm, providing context and examples to help readers understand the ideology and its worldview.
+- The essay argues that understanding CSJ terminology is crucial for informed decision-making and fostering better conversations about social justice issues.
+- _Translations from the Wokish_ is described as an ongoing project, intended to help people grasp the CSJ perspective and decide for themselves whether to support it.

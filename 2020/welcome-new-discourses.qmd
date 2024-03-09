@@ -1,0 +1,19 @@
+---
+abstract: New Discourses centers upon exposing, explaining, and articulating alternatives
+  to anything that attempts to constrain our discourses.
+author: James Lindsay
+date: '2020-02-26'
+link: https://newdiscourses.com/2020/02/welcome-new-discourses/
+media_url: ''
+title: Welcome to New Discourses
+---
+<https://newdiscourses.com/2020/02/welcome-new-discourses/>
+
+- The article discusses the current societal challenge of engaging in political and social discussions without conflict.
+- The author feels personal pressure and notes the impact on relationships due to the fear of discussing sensitive topics.
+- Despite efforts to avoid politics, these topics often surface, sometimes leading to tension but occasionally to relief and agreement.
+- The author laments the loss of normalcy and productive conversation across differing viewpoints, highlighting the discomfort and exhaustion from walking on eggshells.
+- The article introduces "New Discourses," a platform aimed at reclaiming and redefining societal conversations on the author's terms, encouraging open, honest dialogue.
+- "New Discourses" seeks to address both the practical and technical aspects of discourse, aiming for clear communication beyond political correctness and other constraints.
+- The initiative acknowledges that open dialogue may offend but emphasizes the importance of accepting differences of opinion as a cornerstone of civilization.
+- The goal is to foster civil and free discourse, offering alternatives to constrained discussions, and inviting participation in this endeavor.
